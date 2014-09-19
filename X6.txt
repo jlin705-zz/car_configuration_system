@@ -1,0 +1,42 @@
+BMW X6 Base_Price 67113
+
+Color
+Alpine_White 0
+Black_Sapphire_Metallic 0
+Carbon_Black_Metallic 0
+Deep_Sea_Blue_Metallic 0
+Jet_Black 0
+Marrakesh_Brown_Metallic 0
+Midnight_Blue_Metallic 0
+Orion_Silver_Mtallic 0
+Space_Gray_Metallic 0
+Titanium_Silver_Metallic 0
+Vermilion_Red_Metallic 0
+Azurite_Black_Metallic 1800
+Pearl_Silver_Metallic 1800
+
+Comfort_and_Convenience
+Door_Closers_Power_Automatic_Soft 600
+Entry_System_Keyless_Remote_Control 1000
+Speed_Control_Active 2400
+none 0
+
+Entertainment_and_Instrumentation
+Entertainment_System 1700
+Instrument_Display_Head-uo 1300
+Radio_Equipment 350
+Smart_Phone_Interface 250
+None 0
+
+Safety_and_Security
+Lane_Departure_Warning_System 2000
+None 0
+
+Lighting_and_Mirrors
+HeadLamps_Full_LED 1900
+None 0
+
+
+
+
+

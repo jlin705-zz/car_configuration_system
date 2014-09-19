@@ -1,0 +1,33 @@
+Jeep Grand_Cherokee Base_Price 29502
+
+Color
+Billet_Silver_Metalllic 0
+Black_Forest_Green_Pearl 0
+Bright_White 0
+Brilliant_Black_Crystal_Pearl 0
+Cashmere_Pearl 0
+Deep_Cherry_Red_Crystal_Pearl 0
+Granite_Crystal_Metallic 0
+Maximum_Steel_Metallic 0
+True_Blue_Pearl 0
+
+Transmission
+Automatic 0
+Manual -815
+
+Tires
+P245/70R17_On-Off_Road_BSW 0
+P265/60R18_On-Off_Road_BSW 0
+
+Mechanical
+Heater_Engine_Block 95
+Not_Present 0
+
+Power_Moonroof
+Present 995
+Not_Present 0
+
+
+
+
+

@@ -1,0 +1,35 @@
+Ford Focus_Wagon_ZTW Base_Price 18445
+
+Color
+Fort_Knox_Gold_Clearcoat_Metalllic 0
+Liquid_Grey_Clearcoat_Metallic 0
+Infra-Red_Clearcoat 0
+Grabber_Green_Clearcoat_Metallic 0
+Sangria_Red_Clearcoat_Metallic 0
+French_Blue_Clearcoat_Metallic 0
+Twilight_Blue_Clearcoat_Metallic 0
+CD_Silver_Clearcoat_Metallic 0
+Pitch_Black_Clearcoat 0
+Cloud_9_White_Clearcoat 0
+
+Transmission
+Automatic 0
+Manual -815
+
+Brakes/Traction_Control
+Standard 0
+ABS 400
+ABS_with_Advance_Trac 1625
+
+Side_Impact_Air_Bags
+Present 350
+Not_Present 0
+
+Power_Moonroof
+Present 595
+Not_Present 0
+
+
+
+
+

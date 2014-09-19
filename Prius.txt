@@ -1,0 +1,47 @@
+Toyota Prius Base_Price 22824
+
+Color
+Barcelona_Red_Metallic 0
+Black 0
+Blue_Nautical_Metallic 0
+Classic_Silver_Metallic 0
+Grey 0
+Sea_Glass_Pearl 0
+Blizzard_Pearl 352
+
+Transmission
+Automatic 0
+Manual -815
+
+Brakes/Traction_Control
+Standard 0
+Springs_Lowering_PIO 399
+Sway_Bar_Kit 1625
+
+Safety_and_Security
+First_Aid_Kit 29
+Security_System 359
+Not_Present 0
+
+Wheels
+Wheel_Locks 67
+Wheels_Split_5-Spoke_Forged_Alloy 2499
+Not_Present 0
+
+Accessory_Equipment_Packages
+Appearance_Pkg 348
+Plus_Appearance_Pkg 2999
+Plus_Performance_Pkg 3699
+Preferred_Accessory_Pkg 343
+Protection_Pkg 403
+
+Comfort_and_Convenience
+Ashtray 26
+Engine_Start 499
+
+Interior
+Floor_Mats_All_Wheather 200
+Floor_Mats_Carpeted 225
+
+
+

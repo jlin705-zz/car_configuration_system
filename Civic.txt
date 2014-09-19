@@ -1,0 +1,29 @@
+Honda Civic Base_Price 18779
+
+Color
+Kona_Coffee 0
+Metal 0
+White_Taffeta 0
+Beige 0
+Blac 0
+Gray 0
+
+Transmission
+Automatic 0
+Manual -815
+
+Brakes/Traction_Control
+Standard 0
+ABS 400
+ABS_with_Advance_Trac 1625
+
+Side_Impact_Air_Bags
+Present 350
+Not_Present 0
+
+Power_Moonroof
+Present 595
+Not_Present 0
+
+
+
